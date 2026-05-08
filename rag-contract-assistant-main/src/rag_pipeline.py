@@ -1,5 +1,3 @@
-
-
 from embedding_store import search
 from llm_interface import query_llm
 

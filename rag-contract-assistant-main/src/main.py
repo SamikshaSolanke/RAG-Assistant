@@ -1,4 +1,3 @@
-
 from document_loader import load_document
 from chunking import chunk_text
 from embedding_store import build_faiss_index
