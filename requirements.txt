@@ -1,0 +1,35 @@
+streamlit
+sentence-transformers
+faiss-cpu
+pdfplumber
+python-docx
+pypdf
+huggingface_hub
+requests
+numpy
+pandas
+Pillow
+pytesseract
+google-generativeai
+
+# FastAPI backend dependencies
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+python-dotenv
+aiofiles
+
+# RSS feed parsing
+feedparser
+
+# OCR and image processing
+Pillow
+pytesseract
+pdf2image
+opencv-python
+
+# Optional (for Redis-backed sessions / production)
+# redis
+# python-jose[cryptography]

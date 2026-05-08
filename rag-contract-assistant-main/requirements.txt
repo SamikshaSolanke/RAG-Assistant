@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+faiss-cpu
+pdfplumber
+python-docx
+pypdf
+huggingface_hub
+requests
+numpy
+pandas
